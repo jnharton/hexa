@@ -1,0 +1,19 @@
+### Fonts
+
+HEXFont
+hexfont.ttf
+
+source: https://fontlibrary.org/en/font/hexfont
+license: https://creativecommons.org/licenses/by/3.0/
+
+-- INFO FROM WEBSITE
+Category Serif
+License  CC-BY
+
+Family      HEXFont
+Designer    Adam Lane  
+Foundry     Adam Lane  
+Description Created with FontLab
+
+Full Language Support
+    Basic Latin 
